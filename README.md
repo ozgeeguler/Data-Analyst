@@ -1,1 +1,1 @@
-"I will be adding the project I have completed and will complete throughout my Data Analyst course at Miuul here."
+I will be adding here my projects during Miuul's Data Analyst Path course. 
