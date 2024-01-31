@@ -10,6 +10,8 @@ Biding Methods with AB Test Comparison of Transformation :Facebook recently intr
 Rating Product & Sorting Reviews in Amazon: This dataset contains product categories and various metadata for Amazon product data. In the Electronics category, the product with the highest number of reviews has user ratings and reviews available.
 Calculate the Average Rating based on the latest reviews and compare it with the existing average rating. Determine the 20 reviews that will be displayed on the product detail page using approaches such as Positive Negative difference, Score average rating, and Wilson Lower Bound.
 
+Stock Market Analysis:Given historical stock price data for Apple, Microsoft, Netflix and Google over the past three months, your task is to analyze and compare the performance of these companies in the stock market using various data science techniques.
+Specifically, the goal is to identify trends and patterns in stock price movements, calculate moving averages and volatility for each company, and conduct correlation analysis to examine the relationships between different stock prices
 
 This repository is created to enhance and share my data analysis skills. I am open to any feedback or suggestions!
 
